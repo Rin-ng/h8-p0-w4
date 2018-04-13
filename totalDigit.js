@@ -1,8 +1,5 @@
 function totalDigitRekursif(angka) {
  var arr = angka.toString();
- // var joined = "";
- /* arr = arr.split("");
-  console.log(arr);*/
 
   if(arr.length === 1){
     return angka;
